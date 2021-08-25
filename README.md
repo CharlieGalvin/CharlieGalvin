@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Charlie, a third-year computer science integrated masters student studying at Durham University 👋
+
+If you like any of the projects and want to email me with advance/ opinions please feel free!
+
 
 <!--
 **CharlieGalvin/CharlieGalvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
