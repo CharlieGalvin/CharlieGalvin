@@ -1,4 +1,4 @@
-### Hi, I'm Charlie, a third-year computer science integrated masters student studying at Durham University 👋
+### Hi, I'm Charlie, a fourth-year computer science integrated masters student studying at Durham University 👋
 
 If you like any of the projects and want to email me with advance/ opinions please feel free!
 
