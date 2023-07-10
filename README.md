@@ -1,5 +1,6 @@
-### Hi, I am Charlie, a first-class with honours MEng graduate from Durham University. I will soon be working as a Graduate Data Scientist 👋
+## Hi, I'm Charlie, an aspiring Data Scientist! 👋
 
+# I graduated from Durham Univeristy with a First Class Honours Masters Degree, achieving an average of 76 on the MEng program. 
 If you like any of the projects and want to email me with advance/ opinions please feel free!
 
 
