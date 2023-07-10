@@ -1,4 +1,4 @@
-### Hi, I'm Charlie, a fourth-year computer science integrated masters student studying at Durham University 👋
+### Hi, I am Charlie, a first-class with honours MEng graduate from Durham University. I will soon be working as a Graduate Data Scientist 👋
 
 If you like any of the projects and want to email me with advance/ opinions please feel free!
 
