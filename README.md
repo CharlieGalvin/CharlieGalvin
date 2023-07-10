@@ -2,7 +2,7 @@
 
 ## I graduated from Durham Univeristy with a First Class Honours Masters Degree in Computer Science 
 
-MEng Computer Scientist - 1st, 76/100 
+MEng Computer Scientist - ** 1st, 76/100 **
 
 If you like any of the projects and want to email me with advance/ opinions please feel free!
 
